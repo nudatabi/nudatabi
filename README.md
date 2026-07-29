@@ -20,6 +20,13 @@ consumo real y capacitación que deja al equipo del cliente autónomo.
 - **Capacitación** — programas oficiales y a medida (DP-600, DP-700, PL-300) para equipos de
   datos.
 
+## Herramientas
+
+- **[Tabular Model Cleaner 2.0](https://github.com/NuricBI/TabularModelCleaner2.0)** — gratuita.
+  Encuentra las medidas, columnas y tablas que tu modelo semántico ya no usa, mapeando primero
+  todas las dependencias para que ningún objeto usado indirectamente aparezca como huérfano.
+  [Cómo se usa](https://nudatabi.com/blog/tabular-model-cleaner-2-0-for-microsoft-power-bi-and-fabric/).
+
 ## Escribimos sobre esto
 
 El blog es la parte pública del trabajo: qué cambia en la plataforma, con fuentes citadas y
